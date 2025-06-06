@@ -131,7 +131,7 @@ customElements.define('designer-page', class extends LitElement {
   getModelPath() {
     switch (this.selectedClothing) {
       case 'tshirt': return '/models/tshirt.glb';
-      case 'hoodie': return '/models/hoodie-compressed.glb';
+      case 'hoodie': return '/models/hoodie.glb';
       case 'cap': return '/models/cap.glb';
       case 'shirt': return '/models/shirt.glb';
       default: return '/models/tshirt.glb';
