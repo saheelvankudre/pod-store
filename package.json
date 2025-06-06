@@ -17,6 +17,6 @@
     "@shoelace-style/shoelace": "^2.20.1",
     "html2canvas": "^1.4.1",
     "lit": "^3.3.0",
-    "three": "^0.176.0"
+    "three": "^0.172.0"
   }
 }
